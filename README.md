@@ -1,6 +1,7 @@
 # Customer Satisfaction and Loyalty Dashboard
-
-![Customer Dashboard](./Customer%20Satisfaction%20and%20Loyalty%20Dashboard.png)
+<p align="center">
+  <img src="./Customer%20Satisfaction%20and%20Loyalty%20Dashboard.png" width="700"/>
+</p>
 
 This interactive **Power BI dashboard** provides a comprehensive overview of **customer satisfaction** and **loyalty metrics** across key demographics, product factors, and geographic regions. It is designed to uncover **actionable insights** that can improve **customer retention** and overall satisfaction.
 
